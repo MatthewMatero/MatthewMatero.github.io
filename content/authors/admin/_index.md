@@ -14,7 +14,7 @@ organizations:
   url: "https://hlab.cs.stonybrook.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include computational lingustics, time-series forecasting, and deep learning applications
 
 interests:
 - Natural Language Processing
