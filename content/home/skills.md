@@ -27,7 +27,7 @@ subtitle = ""
   description = "100%"  
   
 [[feature]]
-  icon = "stars"
+  icon = "star-half-alt"
   icon_pack = "fas"
   name = "AstroPhotography"
   description = "60%"
