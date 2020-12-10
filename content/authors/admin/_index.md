@@ -69,4 +69,6 @@ user_groups:
 - Visitors
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Currently I'm enrolled as a Computer Science PhD student at Stony Brook University. My background is in both computer science and mathematics, which I double majored in as an undergrad. As a graduate researcher I focus on the domain of Natural Language Processing particularly in the subfield of time-series analysis and human centered NLP. In my research I've gained experience with both traditional machine learning and deep learning techniques using tools such as Sklearn and PyTorch.
+
+During my time in industry as a software engineer I've gained years of experience creating full stack web applications. While I have knowledge across the entire stack my specialization is in backend systems and devops(ansible/aws). Throughout my career I've worked with a variety of tools and frameworks ranging from Java/Spring to Ruby on Rails, as well as many JavaScript frameworks and libraries(Angular.js 1.x, Vue.js) and a handful of SQL flavors(MySQL, T-SQL, and PostgreSQL).
