@@ -6,6 +6,8 @@ image:
   preview_only: false
   alt_text: fixed length AR model.
 
+title: "An Introduction to Time-Series Forecasting"
+
 tags: ["blog"]
 ---
 
