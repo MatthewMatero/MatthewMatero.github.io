@@ -46,7 +46,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = ""
   date_start = "2016-05-02"
-  date_end = ""
+  date_end = "2020-05-30"
   description = """Manage data pipeline for processing in machine learning systems"""
 
 +++
