@@ -29,7 +29,7 @@ education:
   - course: MS in Computer Science
     institution: Stony Brook University
     year: 2019
-  - course: BSc in Comuter Science & Mathematics (double major)
+  - course: BSc in Computer Science & Mathematics (double major)
     institution: Adelphi University
     year: 2015
 
