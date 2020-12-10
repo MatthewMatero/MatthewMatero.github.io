@@ -6,5 +6,6 @@ publication_types = ["1"]
 abstract = ""
 featured = false
 publication = "*Proceedings of the Sixth Workshop on Computational Linguistics and Clinical Psychology*"
+tags = ["deep learning", "dual-model", "social science"]
 +++
 
