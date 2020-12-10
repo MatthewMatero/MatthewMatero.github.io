@@ -9,7 +9,7 @@ title: Publications
 view: 3
 
 # Optional header image (relative to `static/media/` folder).
-header: Autoregressive Affective Language Forecasting: A Self-Supervised Task
-  caption: "TODO CAPTION"
+header:
+  caption: ""
   image: "autoregressive.png"
 ---

@@ -20,10 +20,10 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "---"
-  organization_url = ""
+  #organization_url = ""
   title = "placeholder"
   url = ""
-  certificate_url = ""
+  #certificate_url = ""
   date_start = "2018-03-01"
   date_end = ""
   description = "text"
