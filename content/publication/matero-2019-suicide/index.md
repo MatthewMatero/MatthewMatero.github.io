@@ -6,6 +6,7 @@ publication_types = ["1"]
 abstract = ""
 featured = false
 publication = "*Proceedings of the Sixth Workshop on Computational Linguistics and Clinical Psychology*"
+url_pdf = "https://www.aclweb.org/anthology/W19-3005.pdf"
 tags = ["deep learning", "dual-model", "social science"]
 +++
 
